@@ -1,0 +1,14 @@
+{
+  "kicker": "¿Dudas? Normal.",
+  "title": "Preguntas frecuentes",
+  "items": [
+    { "q": "¿Qué vamos a cocinar?", "a": "Ceviche, lomo saltado y pisco sour, desde cero. El menú exacto puede variar según la sesión." },
+    { "q": "¿Necesito saber cocinar?", "a": "Para nada. Cada persona trabaja en su propia estación y aprende paso a paso las técnicas de cada plato. Solo trae ganas de probar." },
+    { "q": "¿Puedo ir solo?", "a": "¡Claro! Los viajeros solos son bienvenidos y el grupo es de máximo 6 personas, así que es fácil hacer amigos." },
+    { "q": "¿Dónde es la clase?", "a": "En la azotea de una casa de huéspedes local en Arequipa. El punto de encuentro exacto se confirma en la reserva." },
+    { "q": "¿Y las necesidades dietéticas?", "a": "Hacemos adaptaciones veganas, vegetarianas y sin gluten sin costo adicional. Solo avísanos al reservar." },
+    { "q": "¿En qué idioma es la clase?", "a": "En inglés con un chef peruano o en español con un cocinero casero local. Lo eliges al reservar." },
+    { "q": "¿Puedo cancelar?", "a": "Sí, hasta 24 horas antes con reembolso completo." },
+    { "q": "¿Incluye recogida del hotel?", "a": "No, la recogida y el regreso al hotel no están incluidos." }
+  ]
+}

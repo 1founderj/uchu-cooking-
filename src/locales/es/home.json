@@ -1,0 +1,162 @@
+{
+  "hero": {
+    "kicker": "Tu historia de viaje en Arequipa empieza aquí",
+    "titleLine1": "Ven como viajero.",
+    "titleLine2Pre": "Vete como",
+    "titleHighlight": "foodie.",
+    "subtitle": "Olvídate de mirar desde la barrera. Corta, remueve, prueba, ríe — y luego siéntate con nuevos amigos a comer el Perú que tú mismo preparaste.",
+    "ctaPrimary": "Guárdame un lugar",
+    "ctaSecondary": "Muéstrame lo bueno",
+    "badgeRating": "{{rating}} · {{count}} opiniones",
+    "badgeGroup": "Máx. {{max}} personas",
+    "badgeDuration": "{{hours}} horas",
+    "badgePrice": "Desde {{price}}",
+    "stamp": "Hecho con amor en AQP ✳ Hecho con amor en AQP ✳ ",
+    "scroll": "Desliza para abrir el apetito",
+    "imageAlt": "Grupo de viajeros con delantal cocinando en la azotea con los volcanes de Arequipa al fondo"
+  },
+  "marquee": ["Córtalo", "Sazónalo", "Compártelo", "Ama Perú"],
+  "vibe": {
+    "label": "01 / El ambiente",
+    "title": "Un poco menos modo turista. Mucho más Perú.",
+    "kicker": "No es tu clase de cocina habitual",
+    "text": "Los mejores recuerdos no caben en tu mochila. Son la receta que aprendes, los sabores que no esperabas y las personas que conociste alrededor de la mesa. Uchu es tu oportunidad de meterte de lleno en la comida peruana — no solo tomar otra foto.",
+    "cards": [
+      { "emoji": "🔪", "title": "Ponte manos a la obra", "text": "Ingredientes reales, sabores locales y tú cocinando." },
+      { "emoji": "🧑‍🤝‍🧑", "title": "Conoce a tu gente", "text": "Comparte historias de viaje mientras las cebollas chisporrotean. Viajeros solos bienvenidos." },
+      { "emoji": "📒", "title": "Llévatelo a casa", "text": "Aprende algo delicioso que puedas recrear mucho después de Arequipa." }
+    ],
+    "rooftopLabel": "La azotea",
+    "rooftopTitle": "Cocinamos con los volcanes de testigo",
+    "rooftopText": "La clase es en la azotea de una casa de huéspedes local — no en un restaurante. Cada persona tiene su propia estación, el Misti mira de reojo y la mesa larga espera a que termines.",
+    "rooftopNote": "¡qué vista!",
+    "rooftopAlt": "Tres participantes en la azotea mostrando sus platos con el volcán al fondo",
+    "cta": "¿Qué se cocina?"
+  },
+  "good": {
+    "label": "02 / Lo bueno",
+    "kicker": "Listos, preparados, ¡buen provecho!",
+    "title": "Remángate las mangas",
+    "subtitle": "Conoce los ingredientes, aprende los movimientos y prepara una comida digna de conversación. El menú exacto puede variar — consulta la sesión elegida antes de reservar.",
+    "steps": [
+      { "num": "01", "eyebrow": "Primero lo primero", "title": "Conoce los ingredientes", "text": "Color, crujido, picante, cítrico — Perú empieza aquí.", "alt": "Participantes cortando tomate y cebolla en sus estaciones" },
+      { "num": "02", "eyebrow": "Ahora a cocinar", "title": "Haz algo de magia", "text": "Wok caliente, fuego alto y un poco de valentía.", "alt": "Llamarada saliendo del wok mientras se prepara el lomo saltado" },
+      { "num": "03", "eyebrow": "Lo mejor", "title": "Come lo que hiciste", "text": "Siéntate, brinda y prueba tu propio Perú.", "alt": "Grupo brindando con pisco sour en la azotea" }
+    ],
+    "flipHint": "Toca para ver el dato cultural",
+    "cultureLabel": "Dato cultural",
+    "ingredientsLabel": "Ingredientes",
+    "dishes": [
+      {
+        "name": "Ceviche peruano",
+        "tagline": "El cítrico y colorido",
+        "ingredients": ["Pescado fresco", "Limón", "Cebolla roja", "Ají limo", "Culantro", "Camote", "Choclo"],
+        "culture": "El ceviche es parte de la identidad costera del Perú: pescado del día, limón y ají. Simple, fresco y lleno de sabor.",
+        "alt": "Participante mostrando su plato terminado en la azotea"
+      },
+      {
+        "name": "Lomo saltado",
+        "tagline": "Recién salido del wok",
+        "ingredients": ["Lomo", "Cebolla", "Tomate", "Sillao", "Vinagre", "Papas fritas", "Arroz"],
+        "culture": "Nace de la fusión peruano-china del siglo XIX: técnica de wok cantonesa con ingredientes andinos.",
+        "alt": "Wok en llamas preparando lomo saltado"
+      },
+      {
+        "name": "Pisco sour",
+        "tagline": "Para cerrar la sesión",
+        "ingredients": ["Pisco", "Limón", "Almíbar", "Clara de huevo", "Amargo de angostura"],
+        "culture": "El pisco sour nació en Perú en la década de 1920 y hoy es el cóctel bandera del país.",
+        "alt": "Vasos de pisco sour frente a una pizarra de cócteles ilustrada"
+      }
+    ]
+  },
+  "class": {
+    "kicker": "Cómo es tu clase",
+    "title": "Tu boleto a la cocina peruana",
+    "ticketCode": "AQP · UCHU · 001",
+    "items": [
+      { "icon": "⏱", "strong": "{{hours}} horas", "text": "de clase práctica" },
+      { "icon": "👥", "strong": "Máx. {{max}} personas", "text": "clase real, no demostración" },
+      { "icon": "🗣", "strong": "Inglés", "text": "chef peruano · Español: cocinero casero local" },
+      { "icon": "🛒", "strong": "Ingredientes frescos", "text": "comprados el mismo día" },
+      { "icon": "🍽", "strong": "Comida de 3 platos", "text": "ceviche, lomo saltado y pisco sour" },
+      { "icon": "🎁", "strong": "Delantal + recetario", "text": "cuadernillo impreso para llevar" },
+      { "icon": "🌱", "strong": "Vegano, vegetariano, sin gluten", "text": "sin costo extra (avisa al reservar)" }
+    ],
+    "includesTitle": "Incluye",
+    "includes": ["Ingredientes frescos del día", "Comida de 3 platos", "Delantal y cuadernillo impreso de recetas", "Instructor", "Adaptaciones dietéticas bajo petición"],
+    "excludesTitle": "No incluye",
+    "excludes": ["Recogida y regreso al hotel", "Bebidas adicionales aparte del pisco sour", "Propinas"],
+    "idealTitle": "Ideal para",
+    "ideal": ["Parejas", "Foodies y amantes de la cultura", "Viajeros solos", "Grupos pequeños de amigos", "Familias"]
+  },
+  "gallery": {
+    "label": "03 / Los recuerdos",
+    "title": "Buena comida. Mejor compañía.",
+    "subtitle": "Un pequeño aperitivo de los momentos por los que viniste a Arequipa.",
+    "all": "Todo",
+    "filters": { "kitchen": "La cocina", "process": "El proceso", "feast": "El banquete", "people": "La gente" },
+    "view": "Ver",
+    "close": "Cerrar",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "photos": {
+      "rooftopVolcano": "Participantes con sus platos en la azotea y el volcán al fondo",
+      "cutting": "Manos cortando verduras en la estación de cocina",
+      "flambe": "Llamarada del wok durante la clase",
+      "toastSelfie": "Selfie del grupo brindando con pisco sour",
+      "rooftopGroup": "Grupo con delantal posando en la azotea",
+      "piscoChalkboard": "Pisco sours servidos frente a la pizarra de cócteles",
+      "piscoPrep": "Huevos, limones y pisco listos para el pisco sour",
+      "barGroup": "Grupo de viajeros brindando en la barra"
+    }
+  },
+  "quote": {
+    "pre": "Viniste a ver",
+    "hl1": "Perú.",
+    "mid": "Ahora prepara un",
+    "hl2": "poquito",
+    "post": "de él."
+  },
+  "proof": {
+    "kicker": "Lo que dicen los viajeros",
+    "ratingLabel": "de valoración",
+    "reviewsLabel": "opiniones",
+    "reviewsLink": "Ver opiniones en GetYourGuide",
+    "deal": "Oferta GetYourGuide — ahorra hasta {{pct}}%",
+    "instant": "Confirmación inmediata",
+    "testimonialsTitle": "Opiniones"
+  },
+  "booking": {
+    "label": "04 / Antes de ir",
+    "title": "Fácil de reservar. Difícil de olvidar.",
+    "text": "Consulta los detalles actuales de la sesión antes de venir — incluyendo punto de encuentro, horario, idioma, menú y requisitos dietéticos.",
+    "checklist": ["Punto de encuentro: se confirma en la reserva", "Horario: elige tu sesión en el calendario", "Necesidades dietéticas: avísanos al reservar"],
+    "from": "Desde",
+    "perPerson": "por persona",
+    "langLabel": "¿Con quién cocinas?",
+    "langEs": "Español",
+    "langEsWho": "Cocinero casero local",
+    "langEn": "English",
+    "langEnWho": "Chef peruano",
+    "adultsLabel": "Adultos",
+    "adultsDecrease": "Quitar un adulto",
+    "adultsIncrease": "Agregar un adulto",
+    "estimate": "Total estimado",
+    "cta": "Ver disponibilidad",
+    "micro": ["Cancelación gratuita hasta 24 horas antes", "Reserva ahora y paga después", "Confirmación inmediata"],
+    "gyg": "O reserva con la oferta de GetYourGuide",
+    "infoNote": "Idioma y adultos son orientativos: los confirmas en el calendario de reserva."
+  },
+  "final": {
+    "kicker": "Tu próxima historia en Arequipa",
+    "title": "¿Hambriento de algo real?",
+    "subtitle": "Trae tu curiosidad. Nosotros ponemos el sabor.",
+    "cta": "Cocinemos juntos",
+    "float": "¡rico!"
+  },
+  "mobileCta": {
+    "from": "Desde {{price}}",
+    "cta": "Reservar"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "nav": {
+    "vibe": "El ambiente",
+    "good": "Qué preparamos",
+    "gallery": "Los recuerdos",
+    "booking": "Antes de ir",
+    "cta": "¡A cocinar!",
+    "menu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "home": "Uchu Cooking, inicio",
+    "skip": "Saltar al contenido"
+  },
+  "lang": {
+    "label": "Idioma",
+    "names": { "es": "Español", "en": "English", "pt": "Português", "fr": "Français", "de": "Deutsch" }
+  },
+  "footer": {
+    "tagline": "Cocina Perú. Conoce gente. Crea recuerdos.",
+    "follow": "Síguenos",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "book": "Reservas",
+    "copyright": "© {{year}} Uchu Cooking Classes Arequipa.",
+    "wordmark": "Uchu Cooking"
+  },
+  "whatsapp": "Escríbenos por WhatsApp",
+  "logoAlt": "Uchu Cooking",
+  "external": "(se abre en una pestaña nueva)"
+}
